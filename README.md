@@ -2,7 +2,7 @@
 ### I'm developer and studant of Information Systems at UAST - UFRPE
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananias-raphael-d-08b65011a/)](https://www.linkedin.com/in/ananias-raphael-d-08b65011a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananias.nobrega@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananias.nobrega@gmail.com)](mailto:ananias.nobrega@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MeninoNias.MeninoNias)
 
 ## About
@@ -12,7 +12,7 @@
 - 📱 I’m currently learning Flutter;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeninoNias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeninoNias&layout=compact)](https://github.com/MeninoNias/MeninoNias)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MeninoNias&count_private=true&show_icons=true)
 
