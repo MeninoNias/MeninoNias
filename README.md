@@ -2,7 +2,7 @@
 ### I'm developer and studant of Information Systems at UAST - UFRPE
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananias-raphael-d-08b65011a/)](https://www.linkedin.com/in/ananias-raphael-d-08b65011a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananias.nobrega@gmail.com)](mailto:ananias.nobrega@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ananias.nobrega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananias.nobrega@gmail.com)](mailto:ananias.nobrega@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MeninoNias.MeninoNias)
 
 ## About
