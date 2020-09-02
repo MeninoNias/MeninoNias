@@ -3,9 +3,9 @@
 
 
 ## About
-- 🔭 I’m currently working on Sertão Mais Saúde and Health Transportation;
+- 📌 I’m currently working on Sertão Mais Saúde and Projeto Caraibeira;
 - 🖥️ I’m currently learning Django and Django Rest Framework;
-- 🖥️ I’m currently learning Spring Framework;
+- 💻 I’m currently learning Spring Framework;
 - 📱 I’m currently learning Flutter;
 
 <center> 
