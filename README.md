@@ -35,3 +35,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+
+## 🐍 Snake
+
+![Snake animation](https://github.com/MeninoNias/MeninoNias/blob/output/github-contribution-grid-snake.svg)
