@@ -15,9 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeninoNias&layout=compact)](https://github.com/MeninoNias/MeninoNias)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MeninoNias&count_private=true&show_icons=true)
-
-
 
 ## ⚡Languages and Tools
 
