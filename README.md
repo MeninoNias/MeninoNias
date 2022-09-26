@@ -6,7 +6,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MeninoNias.MeninoNias)
 
 ## About
-- 📌 I’m currently working on Use Flow and Serra Talhada city hall;
+- 📌 I’m currently working on UseFlow and Serra Talhada city hall;
 - 🖥️ I’m currently learning Django and Django Rest Framework;
 - 🖥️ I’m currently learning Node.js and express, sequelize and EJS;
 - 💻 I’m currently learning Spring Framework;
