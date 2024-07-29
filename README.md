@@ -5,13 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-ananias.nobrega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananias.nobrega@gmail.com)](mailto:ananias.nobrega@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MeninoNias.MeninoNias)
 
-## About
-- 📌 I’m currently working on UseFlow and Serra Talhada;
-- 🖥️ I’m currently learning Django and Django Rest Framework;
-- 🖥️ I’m currently learning Node.js and express, sequelize and EJS;
-- 💻 I’m currently learning Spring Framework;
-- 📱 I’m currently learning Flutter;
-
 ## ⚡Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
